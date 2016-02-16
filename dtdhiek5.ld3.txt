@@ -1,0 +1,422 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch Dev
+# Changes to be committed:
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-71.exr.meta
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-72.exr
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-72.exr.meta
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-73.exr
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-73.exr.meta
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-74.exr
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-74.exr.meta
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-75.exr
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-75.exr.meta
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-76.exr
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-76.exr.meta
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-77.exr
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-77.exr.meta
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-78.exr
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-78.exr.meta
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-79.exr
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-79.exr.meta
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-8.exr
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-8.exr.meta
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-80.exr
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-80.exr.meta
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-81.exr
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-81.exr.meta
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-82.exr
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-82.exr.meta
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-83.exr
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-83.exr.meta
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-84.exr
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-84.exr.meta
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-85.exr
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-85.exr.meta
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-86.exr
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-86.exr.meta
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-87.exr
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-87.exr.meta
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-88.exr
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-88.exr.meta
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-89.exr
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-89.exr.meta
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-9.exr
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-9.exr.meta
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-90.exr
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-90.exr.meta
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-91.exr
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-91.exr.meta
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-92.exr
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-92.exr.meta
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-93.exr
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-93.exr.meta
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-94.exr
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-94.exr.meta
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-95.exr
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-95.exr.meta
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-96.exr
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-96.exr.meta
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-97.exr
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-97.exr.meta
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-98.exr
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-98.exr.meta
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-99.exr
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-99.exr.meta
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Sample2.unity
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Sample2.unity.meta
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders.meta
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/Bollard.png
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/Bollard.png.meta
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/BollardIM.png
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/BollardIM.png.meta
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/Cannel.png
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/Cannel.png.meta
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/Car paint.png
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/Car paint.png.meta
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/CarIM.png
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/CarIM.png.meta
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/China Road BRIDG.png
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/China Road BRIDG.png.meta
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/China Road BRIDGN.png
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/China Road BRIDGN.png.meta
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/China Road T.png
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/China Road T.png.meta
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/China Road TN.png
+#	new file:   Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/China Road TN.png.meta
+#
+# Untracked files:
+#	.vs/
+#	Assembly-CSharp-Editor.csproj
+#	Assembly-CSharp-firstpass.csproj
+#	Assembly-CSharp.csproj
+#	Assets/AI.meta
+#	Assets/AI/
+#	Assets/ClassRoom Stuff.meta
+#	Assets/ClassRoom Stuff/
+#	Assets/DayNightCycle.cs
+#	Assets/DayNightCycle.cs.meta
+#	Assets/DestroyFireShot.cs
+#	Assets/DestroyFireShot.cs.meta
+#	Assets/Editor.meta
+#	Assets/Editor/
+#	Assets/Fantasy Defensive Structures.meta
+#	Assets/Fantasy Defensive Structures/
+#	Assets/Flatscreen TV.meta
+#	Assets/Flatscreen TV/
+#	Assets/Gizmos.meta
+#	Assets/Gizmos/
+#	Assets/Horror Hospital Pack.meta
+#	Assets/Horror Hospital Pack/
+#	Assets/HorrorHospitalPackFJM.unitypackage
+#	Assets/HorrorHospitalPackFJM.unitypackage.meta
+#	Assets/LeapMotion.meta
+#	Assets/LeapMotion/
+#	Assets/LeapMotionVR.meta
+#	Assets/LeapMotionVR/
+#	Assets/Machine Pistol.meta
+#	Assets/Machine Pistol/
+#	Assets/Materials.meta
+#	Assets/Materials/
+#	Assets/Modern Weapons Pack.meta
+#	Assets/Modern Weapons Pack/
+#	Assets/New Terrain 1.asset
+#	Assets/New Terrain 1.asset.meta
+#	Assets/New Terrain.asset
+#	Assets/New Terrain.asset.meta
+#	Assets/OVR.meta
+#	Assets/OVR/
+#	Assets/Plugins.meta
+#	Assets/Plugins/
+#	Assets/Prefabs.meta
+#	Assets/Prefabs/
+#	Assets/SampleScenes.meta
+#	Assets/SampleScenes/
+#	Assets/Script.meta
+#	Assets/Script/
+#	Assets/Simple Box Pack.meta
+#	Assets/Simple Box Pack/
+#	Assets/Son.meta
+#	Assets/Son/
+#	Assets/SoundGrenade.mp3
+#	Assets/SoundGrenade.mp3.meta
+#	Assets/Standard Assets.meta
+#	Assets/Standard Assets/
+#	Assets/TestMap.meta
+#	Assets/TestMap.unity
+#	Assets/TestMap.unity.meta
+#	Assets/TestMap/
+#	Assets/Texture.meta
+#	Assets/Texture/
+#	Assets/ToolboxAsset.meta
+#	Assets/ToolboxAsset/
+#	Assets/Unity Set Builder.meta
+#	Assets/Unity Set Builder/Set Builder.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Materials.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Materials/
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Modles.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Modles/
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/PreFab.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/PreFab/
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample.unity
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample.unity.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-0.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-0.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-1.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-1.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-10.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-10.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-100.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-100.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-101.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-101.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-102.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-102.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-103.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-103.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-104.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-104.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-105.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-105.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-106.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-106.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-107.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-107.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-108.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-108.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-109.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-109.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-11.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-11.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-110.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-110.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-111.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-111.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-112.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-112.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-113.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-113.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-114.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-114.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-115.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-115.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-12.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-12.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-13.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-13.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-14.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-14.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-15.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-15.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-16.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-16.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-17.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-17.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-18.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-18.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-19.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-19.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-2.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-2.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-20.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-20.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-21.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-21.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-22.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-22.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-23.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-23.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-24.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-24.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-25.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-25.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-26.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-26.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-27.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-27.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-28.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-28.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-29.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-29.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-3.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-3.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-30.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-30.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-31.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-31.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-32.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-32.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-33.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-33.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-34.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-34.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-35.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-35.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-36.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-36.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-37.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-37.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-38.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-38.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-39.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-39.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-4.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-4.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-40.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-40.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-41.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-41.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-42.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-42.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-43.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-43.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-44.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-44.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-45.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-45.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-46.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-46.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-47.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-47.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-48.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-48.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-49.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-49.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-5.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-5.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-50.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-50.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-51.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-51.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-52.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-52.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-53.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-53.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-54.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-54.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-55.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-55.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-56.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-56.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-57.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-57.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-58.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-58.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-59.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-59.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-6.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-6.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-60.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-60.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-61.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-61.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-62.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-62.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-63.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-63.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-64.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-64.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-65.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-65.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-66.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-66.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-67.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-67.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-68.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-68.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-69.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-69.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-7.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-7.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-70.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-70.exr.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Sample/LightmapFar-71.exr
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/China Sign1.png
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/China Sign1.png.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/China Sign1IM.png
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/China Sign1IM.png.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/China Sign1N.png
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/China Sign1N.png.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/China Sign2.png
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/China Sign2.png.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/China Sign2IM.png
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/China Sign2IM.png.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/China Sign2N.png
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/China Sign2N.png.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/China SignBig.png
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/China SignBig.png.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/China SignBigIM.png
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/China SignBigIM.png.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/China SignBigN.png
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/China SignBigN.png.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/China Street Barreir.png
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/China Street Barreir.png.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/China Street BarreirN.png
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/China Street BarreirN.png.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/China store 1 corner.png
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/China store 1 corner.png.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/China store 1 cornerN.png
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/China store 1 cornerN.png.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/China.cubemap
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/China.cubemap.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/ChinaLamp.tga
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/ChinaLamp.tga.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/ChinaLampN.tga
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/ChinaLampN.tga.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/ChinaShops1Face 1.png
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/ChinaShops1Face 1.png.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/ChinaShops1Face.png
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/ChinaShops1Face.png.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/ChinaShops1Facen.png
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/ChinaShops1Facen.png.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/Lantain.png
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/Lantain.png.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/Pavement.Png
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/Pavement.Png.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/Reflect Night 1.png
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/Reflect Night 1.png.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/Reflect-BumpSpec.shader
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/Reflect-BumpSpec.shader.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/Shop wall2.png
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/Shop wall2.png.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/Shop wall2n.png
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/Shop wall2n.png.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/Sign4.png
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/Sign4.png.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/Sign4IM.png
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/Sign4IM.png.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/Sign4n.png
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/Sign4n.png.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/grill.jpg
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/grill.jpg.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/rEFLECT.png
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/rEFLECT.png.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/road2.png
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/road2.png.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/road2N.png
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/road2N.png.meta
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/shop faceIM.png
+#	Assets/Unity Set Builder/Set Builder/Hong Kong/Textures and Shaders/shop faceIM.png.meta
+#	Assets/Unity Set Builder/Standard Assets.meta
+#	Assets/Unity Set Builder/Standard Assets/
+#	Assets/bloodblur.png
+#	Assets/bloodblur.png.meta
+#	Assets/fpsMove.unity
+#	Assets/fpsMove.unity.meta
+#	Assets/frag_grenade_dm51a1.meta
+#	Assets/frag_grenade_dm51a1/
+#	Assets/leapcontroll.cs
+#	Assets/leapcontroll.cs.meta
+#	FPS.CSharp.Editor.csproj
+#	FPS.CSharp.Plugins.csproj
+#	FPS.CSharp.csproj
+#	FPS.sln
+#	Library/
+#	ProjectSettings/
+#	Temp/
+#	obj/
+#
+
